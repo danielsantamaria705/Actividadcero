@@ -1,3 +1,3 @@
 file para actividad #0
 
-nombre del personaje principal Lia
+se crea el personaje principal Lia
