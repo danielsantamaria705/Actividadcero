@@ -1,1 +1,3 @@
 file para actividad #0
+
+actualizacion de videojuego, nueva caracteristica
