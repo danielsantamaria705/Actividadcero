@@ -1,1 +1,3 @@
 file para actividad #0
+
+nombre del personaje principal Lia
